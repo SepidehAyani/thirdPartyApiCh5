@@ -3,7 +3,7 @@
 ## Description
 This is a codebase to a simple calendar application that allows a user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-## Used librries
+## Used Libraries
 1. [jQuery](https://jquery.com/)
 2. [moment.js](https://momentjs.com/)
 3. [Bootstrap](https://getbootstrap.com/)
